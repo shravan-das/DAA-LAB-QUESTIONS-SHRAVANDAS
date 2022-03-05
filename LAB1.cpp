@@ -23,4 +23,5 @@ int main(){
     cout<<"enter the key to searched:"<<endl;
     cin>>key;
     index =  search(arr,n,key);
+    cout<<index<<endl;
 }
